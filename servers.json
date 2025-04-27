@@ -55,3 +55,7 @@
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
+{
+    "name": "[leojukic03]",   //doesn't really matter unless you're sharing this server list with someone else
+    "address": "[18.156.158.53]"
+}
